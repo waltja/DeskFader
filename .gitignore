@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+bin/
+obj/
+.vs/
+.idea/
+.venv/
+.pytest_cache/
+*.user
+*.suo

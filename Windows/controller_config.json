@@ -1,0 +1,10 @@
+{
+  "slots": [
+    {"process": "Spotify.exe", "default_volume": 40},
+    {"process": "Discord.exe", "default_volume": 100},
+    {"process": "opera.exe", "default_volume": 20},
+    {"process": "vlc.exe", "default_volume": 50},
+    {"process": "notepad.exe", "default_volume": 50},
+    {"process": "zoom.exe", "default_volume": 50}
+  ]
+}
